@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clase3</string>
+    <string name="boton_brazil">Brazil</string>
+    <string name="boton_spain">España</string>
+    <string name="boton_francia">Francia</string>
+    <string name="boton_peru">Perú</string>
+</resources>
